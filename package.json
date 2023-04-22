@@ -1,3 +1,4 @@
 {
-  "name": "utils"
+  "name": "utils",
+  "main": "index.js"
 }
