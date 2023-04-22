@@ -1,4 +1,7 @@
 {
   "name": "utils",
-  "main": "index.js"
+  "main": "index.js",
+  "bin": {
+    "utils": "./index.js"
+  }
 }
